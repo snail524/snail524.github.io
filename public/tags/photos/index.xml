@@ -16,6 +16,13 @@
       <description>Hello World&#xA;hugo server -&amp;gt; 模擬 hugo -&amp;gt; 產生github要的 test</description>
     </item>
     <item>
+      <title>Second</title>
+      <link>https://immigrant524.github.io/blog/second-post/</link>
+      <pubDate>Mon, 01 Jan 2024 21:44:47 +0800</pubDate>
+      <guid>https://immigrant524.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://immigrant524.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>

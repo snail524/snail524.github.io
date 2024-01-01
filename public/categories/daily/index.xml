@@ -15,5 +15,12 @@
       <guid>https://immigrant524.github.io/blog/test/</guid>
       <description>Hello World&#xA;hugo server -&amp;gt; 模擬 hugo -&amp;gt; 產生github要的 test</description>
     </item>
+    <item>
+      <title>Second</title>
+      <link>https://immigrant524.github.io/blog/second-post/</link>
+      <pubDate>Mon, 01 Jan 2024 21:44:47 +0800</pubDate>
+      <guid>https://immigrant524.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
   </channel>
 </rss>
