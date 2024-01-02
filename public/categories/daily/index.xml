@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daily on Ming Blog</title>
-    <link>https://immigrant524.github.io/categories/daily/</link>
+    <link>https://snail524.github.io/categories/daily/</link>
     <description>Recent content in Daily on Ming Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 01 Jan 2024 21:44:47 +0800</lastBuildDate>
-    <atom:link href="https://immigrant524.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snail524.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://immigrant524.github.io/blog/test/</link>
+      <link>https://snail524.github.io/blog/test/</link>
       <pubDate>Mon, 01 Jan 2024 21:44:47 +0800</pubDate>
-      <guid>https://immigrant524.github.io/blog/test/</guid>
+      <guid>https://snail524.github.io/blog/test/</guid>
       <description>Hello World&#xA;hugo server -&amp;gt; 模擬 hugo -&amp;gt; 產生github要的 test</description>
     </item>
     <item>
       <title>Second</title>
-      <link>https://immigrant524.github.io/blog/second-post/</link>
+      <link>https://snail524.github.io/blog/second-post/</link>
       <pubDate>Mon, 01 Jan 2024 21:44:47 +0800</pubDate>
-      <guid>https://immigrant524.github.io/blog/second-post/</guid>
+      <guid>https://snail524.github.io/blog/second-post/</guid>
       <description>我是第二篇文章</description>
     </item>
   </channel>
